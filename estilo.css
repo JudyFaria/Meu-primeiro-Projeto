@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(143, 142, 140);
+}
+
+.img-logo{
+    height: 160px;
+    width: 160px;
+    padding: 10px 100px 20px 0px;
+    display: inline;
+    justify-content: space-around;
+}
+
+h1{
+    margin: 0px 200px 0px 400px;
+    padding: 0px 10px 0px 0px;
+
+}
+
+h2{
+    margin: 20px 200px 20px 475px;;
+
+}
+
+  header{
+    display: inline;
+    flex-direction: row;
+    justify-content: space-around; 
+ } 
+
+.img-section{
+    margin: 20px 0px 100px 0px;
+}
+
+section{
+    flex-wrap: wrap;
+    justify-content: space-around;
+} 
+
+    
+#menu-h { 
+    list-style: none;
+    padding: 0;
+    background-color: rgb(9, 10, 9);
+    justify-content: space-between;
+}
+
+#menu-h li{
+    display: inline;
+    
+
+}
+
+#menu-h li a{ 
+    justify-content: space-around;
+    color:rgb(246, 253, 253);
+    padding: 25px;
+    display: inline-block;
+    text-decoration: none;
+
+}
+
+#menu-h li :hover {
+    color: rgb(4, 247, 56);
+}
+
+.img-section{
+    justify-content: flex-end;
+    padding: 0px 525px 0px 0px;
+}
+
+.borda-section{
+    border: double black;
+    padding: 20px 20px 20px 10px;
+    margin: 40px 0px 40px 0px;
+}
+
+p{
+    font-size: 20px;
+    padding: 15px 50px 10px 50px;
+}
+
+#p{
+    padding: 10px 90px 15px 130px;
+}
+
+
+#h3-footer{
+    font-size: 15px;
+    color:rgb(97, 98, 99);
+    padding: 10px 200px 10px 400px;
+    
+}
+
+#tituloint{
+    color:red;
+}
+
+#titulo1{
+    color:white;
+}
+
+#titulo2{
+    color: green;
+}
+
+#titulo3{
+    color: yellow;
+}
+
+#titulo4{
+    color: orange;
+}
+
+#titulo5{
+    color: blue;
+}
+
+#titulo6{
+    color: red;
+}
+
+#titulo7{
+    color: green;
+}
